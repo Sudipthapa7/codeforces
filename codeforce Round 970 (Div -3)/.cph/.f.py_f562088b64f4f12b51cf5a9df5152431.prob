@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"c:\\Contest\\codeforces\\codeforce Round 970 (Div -3)\\f.py","tests":[{"id":1725208837196,"input":"3\n3\n3 2 3\n4\n2 2 2 4\n5\n1 2 3 4 5\n","output":"7\n6\n500000012\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Contest\\codeforces\\codeforce Round 970 (Div -3)\\f.py","group":"local","local":true}
